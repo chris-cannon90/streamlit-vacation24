@@ -1,0 +1,5 @@
+__pycache__/
+__pycache__/*
+.DS_Store
+# ignore the venv folder and all items in it:
+venv/

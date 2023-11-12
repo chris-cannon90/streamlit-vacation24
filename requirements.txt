@@ -1,0 +1,4 @@
+snowflake-connector-python
+streamlit
+streamlit-extras
+plotly
